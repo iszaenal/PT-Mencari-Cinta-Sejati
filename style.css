@@ -189,7 +189,7 @@ img {
 
 /* Showcase */
 #main-header {
-  background: url(img/backround.jpeg) no-repeat center center/cover;
+  background: url('img/backround.jpeg') no-repeat center center/cover;
   height: 700px;
   position: relative;
 }
